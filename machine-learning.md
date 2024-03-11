@@ -98,3 +98,27 @@ How about, for `m = 5` and `c = 100`:
 
 Better ! But still not great.
 
+
+
+### Exercise&#x20;
+
+See if you can find a line that best matches the data.
+
+Download the sample project [https://dev.glassworks.tech:18081/courses/machine-learning-examples](https://dev.glassworks.tech:18081/courses/machine-learning-examples).
+
+* Look at the sample data under `data/house_prices.csv`
+* Run the first script that plots this data with a fitted line:
+
+```
+python3 001_plot.py
+```
+
+Try different versions of the the formula for a line (line 31):
+
+```python
+graph('5*x + 100', range(20, 100), 'm')
+```
+
+Can you find one that fits ?
+
+How do you evaluate if the fit is good ?
