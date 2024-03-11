@@ -1,1 +1,2 @@
-# course-machine-learning-supports
+# Introduction to Artificial Intelligence
+
