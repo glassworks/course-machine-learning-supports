@@ -74,7 +74,7 @@ Duplicate and modify your previous python script, and make the following changes
     The function should return two values : **dj\_dm** and **dj\_dc** according to the above formulas.\
 
 
-Test your functions.&#x20;
+Test your functions for `m = 6` and `c = 100`
 
 Over the small test data set:&#x20;
 
